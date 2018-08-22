@@ -1,5 +1,6 @@
 # hello-world
-Thank you for creating this tutorial, I am finding my way around
+Thank you for creating this tutorial, I am finding my way around.
+
 Since this is a public area (I think) it would make sense to say Hi to anyone who finds this by accident,
 actually is that really possible? I seem to remember viewing someone's readme.md file and wondering why anyone
 would create such a file .... but Ah-HA I now know their motivation ....
